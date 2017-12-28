@@ -11,3 +11,6 @@ Implementação de um disseminador eficiente de arquivo, inspirado no protocolo 
 
 - javac *.java
 - java Principal
+
+ou 
+- Executando o .bat ou .sh
